@@ -1,4 +1,5 @@
 *Dennis Sullivan*
-I was born and raised in Phoenix Arizona.
-I enjoy many different foods, especially Mexican.
-I play competitive badminton.
+**Place of birth:** Phoenix Arizona
+**Favorite food:** I enjoy many different foods, especially Mexican.
+**Favorite sport:** I play competitive badminton.
+**Favorite color:** Turquois
